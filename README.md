@@ -1,3 +1,7 @@
+Important
+
+This project is independent and is not officially affiliated with the Iranian National Trade System.
+
 این برنامه به کمک هوش مصنوعی جهت ورود اطلاعات مشتری توسط کاربر و اضافه کردن آن به فایل اکسل نمونه سامانه جامع تجارت ایران ساخته شده است.
 
 requirements: python, Tkinter, pywin32
